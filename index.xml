@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://github.com/carryme15/carryme15.github.io/</link>
+    <link>https:carryme15.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2019 21:16:53 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/carryme15/carryme15.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https:carryme15.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>https://github.com/carryme15/carryme15.github.io/test/</link>
+      <link>https:carryme15.github.io/test/</link>
       <pubDate>Sat, 20 Jul 2019 21:16:53 +0800</pubDate>
       
-      <guid>https://github.com/carryme15/carryme15.github.io/test/</guid>
+      <guid>https:carryme15.github.io/test/</guid>
       <description>b go</description>
     </item>
     
     <item>
       <title>Site</title>
-      <link>https://github.com/carryme15/carryme15.github.io/post/19-07/site/</link>
+      <link>https:carryme15.github.io/post/19-07/site/</link>
       <pubDate>Sat, 20 Jul 2019 20:31:47 +0800</pubDate>
       
-      <guid>https://github.com/carryme15/carryme15.github.io/post/19-07/site/</guid>
+      <guid>https:carryme15.github.io/post/19-07/site/</guid>
       <description> 博客  sudo pacman -S hugo hugo new site &amp;lt;blog name&amp;gt; hugo new &amp;lt;post name&amp;gt; hugo server &amp;ndash;buildDrafts &amp;ndash;theme=&amp;lt;theme&amp;gt; &amp;ndash;baseUrl=&amp;lt;link address&amp;gt;  </description>
     </item>
     
